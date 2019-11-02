@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/shiroa
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://shiroa.tk
+  * I am shiroa (https://keybase.io/shiroa) on keybase.
+  * I have a public key ASCkbIFA9cv4FVggisWRMjB14Trc9q2y5b7U6CEalHQnpQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120a46c8140f5cbf81558208ac591323075e13adcf6adb2e5bed4e8211a947427a50a",
+      "host": "keybase.io",
+      "kid": "0120a46c8140f5cbf81558208ac591323075e13adcf6adb2e5bed4e8211a947427a50a",
+      "uid": "aed511aefffcebff83a92396fa420a19",
+      "username": "shiroa"
+    },
+    "merkle_root": {
+      "ctime": 1572737403,
+      "hash": "a1b684583edc2297ac31b936ea24f63d87ff73e8fe01ad0ed5a0058db798e0b842366d7e9bd69dab03c7bf5e71152b974b7e96ce3f89a32f9b80b969c4391765",
+      "hash_meta": "ddf9e88f2a8176bdf7884f6d4c9f082dd8fc8e1d2ac932be9efd91bf7cffb6f2",
+      "seqno": 8642502
+    },
+    "service": {
+      "entropy": "Qoot7ae8JXN4OJ6VxoCWM3pX",
+      "hostname": "shiroa.tk",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.7.2"
+  },
+  "ctime": 1572737424,
+  "expire_in": 504576000,
+  "prev": "8a550c02f7d32a5a078cc95b60fcde8054ef653d0c1bd8591dd56f76e8c28e7d",
+  "seqno": 22,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgpGyBQPXL+BVYIIrFkTIwdeE63PatsuW+1OghGpR0J6UKp3BheWxvYWTESpcCFsQgilUMAvfTKloHjMlbYPzegFTvZT0MG9hZHdVvdujCjn3EIOXzyXPRFU+rl6lk8U9aiGti5aU++AgyCPSswbP+q6doAgHCo3NpZ8RAHo3vlFMs4UlN7gq31H3kf42oJ40eweeH+BJyJ7if5BxBvpCyOcbuL7zdonq1Sx0cG0HoNEv9ywsme0R/AXogCKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIG82SwLFsZUQT0h2vUXBmXs5ilpBHBxepVm7xER/jxOAo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/shiroa
+
+==================================================================
