@@ -4,7 +4,7 @@ https://keybase.io/shiroa
 
 I hereby claim:
 
-  * I am an admin of http://shiroa.tk
+  * I am an admin of https://shiroah.github.io
   * I am shiroa (https://keybase.io/shiroa) on keybase.
   * I have a public key ASCkbIFA9cv4FVggisWRMjB14Trc9q2y5b7U6CEalHQnpQo
 
@@ -20,15 +20,15 @@ To do so, I am signing this object:
       "username": "shiroa"
     },
     "merkle_root": {
-      "ctime": 1572737403,
-      "hash": "a1b684583edc2297ac31b936ea24f63d87ff73e8fe01ad0ed5a0058db798e0b842366d7e9bd69dab03c7bf5e71152b974b7e96ce3f89a32f9b80b969c4391765",
-      "hash_meta": "ddf9e88f2a8176bdf7884f6d4c9f082dd8fc8e1d2ac932be9efd91bf7cffb6f2",
-      "seqno": 8642502
+      "ctime": 1572737875,
+      "hash": "d0e9494688139c72009c6d71ced1c629cc1a966d92fc02f1cf78e87b72471d3829eb23847b984b06def482e5cbb2e9954b25a22e833f3f0fcc7f7d5f9b153a4a",
+      "hash_meta": "7d4c8e1a759eca3170a5bc21cfbc073c4587831f69d7bbfdea0be066d6769711",
+      "seqno": 8642699
     },
     "service": {
-      "entropy": "Qoot7ae8JXN4OJ6VxoCWM3pX",
-      "hostname": "shiroa.tk",
-      "protocol": "http:"
+      "entropy": "SyQAxyZiI+4XB5hBXyUoWEaj",
+      "hostname": "shiroah.github.io",
+      "protocol": "https:"
     },
     "type": "web_service_binding",
     "version": 2
@@ -37,16 +37,16 @@ To do so, I am signing this object:
     "name": "keybase.io go client",
     "version": "4.7.2"
   },
-  "ctime": 1572737424,
+  "ctime": 1572737884,
   "expire_in": 504576000,
-  "prev": "8a550c02f7d32a5a078cc95b60fcde8054ef653d0c1bd8591dd56f76e8c28e7d",
-  "seqno": 22,
+  "prev": "459104272575413307d85e15c056727930678ace587020fce7c29532221961be",
+  "seqno": 24,
   "tag": "signature"
 }
 
 which yields the signature:
 
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgpGyBQPXL+BVYIIrFkTIwdeE63PatsuW+1OghGpR0J6UKp3BheWxvYWTESpcCFsQgilUMAvfTKloHjMlbYPzegFTvZT0MG9hZHdVvdujCjn3EIOXzyXPRFU+rl6lk8U9aiGti5aU++AgyCPSswbP+q6doAgHCo3NpZ8RAHo3vlFMs4UlN7gq31H3kf42oJ40eweeH+BJyJ7if5BxBvpCyOcbuL7zdonq1Sx0cG0HoNEv9ywsme0R/AXogCKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIG82SwLFsZUQT0h2vUXBmXs5ilpBHBxepVm7xER/jxOAo3RhZ80CAqd2ZXJzaW9uAQ==
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgpGyBQPXL+BVYIIrFkTIwdeE63PatsuW+1OghGpR0J6UKp3BheWxvYWTESpcCGMQgRZEEJyV1QTMH2F4VwFZyeTBnis5YcCD858KVMiIZYb7EIGERBZZuUpF7cvNRpKAFR0HDCqR9lUI2wAjEJIe9FcZ6AgHCo3NpZ8RAZUXcn/jfRKn+65nTeAyYzHrqiHzJ6V4G3Lu95is8xNfuwKhvgrHB/uGV2PY5ckXmG5BoiD773ireKvV1vSM9CKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFYFlwpgh5MrpjgCk6m1YKMswe4nJqcFQNJIWCvkzZjSo3RhZ80CAqd2ZXJzaW9uAQ==
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
